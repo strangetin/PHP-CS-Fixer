@@ -1,5 +1,5 @@
 {
-    "name": "friendsofphp/php-cs-fixer",
+    "name": "strangetin/php-cs-fixer",
     "type": "application",
     "description": "A tool to automatically fix PHP code style",
     "license": "MIT",
